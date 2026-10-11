@@ -20,7 +20,8 @@ The virtual machine uses Bridged networking to connect to the local network, all
 
 | Component | Configuration |
 |---|---|
-| Server OS | Debian Linux |
+| Server OS | Debian GNU/Linux 13 (Trixie) |
+| Hostname | `server-lab` |
 | Virtualization | VMware Workstation |
 | Network Mode | Bridged |
 | Client Device | Windows laptop with Debian on WSL |
