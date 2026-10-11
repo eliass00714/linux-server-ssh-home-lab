@@ -60,6 +60,23 @@ Laptop
 
 **Status: SSH remote login successful.**
 
+## Evidence
+
+### 1. Successful SSH Login
+![Successful SSH Login](screenshots/1-ssh-login.png)
+
+### 2. Remote Command Verification
+![Remote Command Verification](screenshots/2-remote-commands.png)
+
+### 3. Server Information
+![Server Information](screenshots/3-server-info.png)
+
+### 4. Network Configuration
+![Network Configuration](screenshots/4-network-config.png)
+
+### 5. SSH Service Status
+![SSH Service Status](screenshots/5-ssh-service.png)
+
 The laptop successfully established an SSH session with the Debian server and accessed its terminal remotely.
 
 Additional evidence and verification commands will be documented as the project develops.
